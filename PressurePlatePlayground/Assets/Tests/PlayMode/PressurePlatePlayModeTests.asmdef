@@ -1,0 +1,11 @@
+{
+  "name": "PressurePlatePlayModeTests",
+  "references": [
+    "PressurePlateGame",
+    "Unity.InputSystem",
+    "Unity.VisualEffectGraph.Runtime"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

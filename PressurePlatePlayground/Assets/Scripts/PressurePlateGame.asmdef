@@ -1,0 +1,7 @@
+{
+  "name": "PressurePlateGame",
+  "references": [
+    "Unity.InputSystem",
+    "Unity.VisualEffectGraph.Runtime"
+  ]
+}
